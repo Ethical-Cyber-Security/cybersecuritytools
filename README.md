@@ -6,6 +6,7 @@
 |-----------|-----------------------|
 |[nmapAutomator](https://github.com/21y4d/nmapAutomator)|Automate the process of enumeration & recon that is run every time, and instead focus our attention on real pentesting.|
 |[AutoRecon](https://github.com/Tib3rius/AutoRecon)|AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.|
+|[Dirbuster](https://github.com/KajanM/DirBuster)|DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.|
 
 ## Forensics
 
