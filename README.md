@@ -14,6 +14,12 @@
 |-----------|-----------------------|
 |[Forensic Toolkit](https://accessdata.com/product-download)|Forensic Toolkit, or FTK, is a computer forensics software made by AccessData. It scans a hard drive looking for various information. It can, for example, potentially locate deleted emails and scan a disk for text strings to use them as a password dictionary to crack encryption.|
 
+## Networking
+
+| Tool      |      Description      |
+|-----------|-----------------------|
+|[Wireshark](https://www.wireshark.org/download.html)|Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.|
+
 ## Reverse Engineering
 
 | Tool      |      Description      |
