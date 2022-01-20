@@ -13,6 +13,7 @@
 | Tool      |      Description      |
 |-----------|-----------------------|
 |[Forensic Toolkit](https://accessdata.com/product-download)|Forensic Toolkit, or FTK, is a computer forensics software made by AccessData. It scans a hard drive looking for various information. It can, for example, potentially locate deleted emails and scan a disk for text strings to use them as a password dictionary to crack encryption.|
+|[Autopsy](http://www.sleuthkit.org/autopsy/)|Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.|
 
 ## Networking
 
@@ -27,6 +28,20 @@
 |[IDA Freeware](https://hex-rays.com/ida-free/)|This (completely!) free version of IDA offers a privilege opportunity to see IDA in action. This light but powerful tool can quickly analyze the binary code samples and users can save and look closer at the analysis results.|
 |[Ghidra](https://github.com/NationalSecurityAgency/ghidra)|A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.|
 
+## Web Exploitation Tools
+
+| Tool      |      Description      |
+|-----------|-----------------------|
+|[BurpSuite](https://portswigger.net/burp)|Integrated platform for performing security testing of web applications.|
+|[Wappalyzer](https://www.wappalyzer.com/)|Wappalyzer uncovers the technologies used on websites.|
+
+## Hash Cracking Tools
+
+| Tool      |      Description      |
+|-----------|-----------------------|
+|[StegCracker](https://github.com/Paradoxis/StegCracker)|Steganography brute-force utility to uncover hidden data inside files.|
+
+
 ## Other
 
 | Tool      |      Description      |
@@ -35,3 +50,4 @@
 |[PenTest Monkey(old but useful)](https://pentestmonkey.net/)|Taking the monkey work out of pentesting.|
 |[PayLoadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|A list of useful payloads and bypasses for Web Application Security.|
 |[Random Tools and Information](https://refabr1k.gitbook.io/oscp/metasploit/basic-usage)|"Hello! refabr1k is my handle and I'm a pentester. I originally created this for my OSCP prep, but now I use this note book as reference when I'm performing pentesting. Feel free to use for your gain!" - refabr1k|
+|[Reverse Shell Generator](https://www.revshells.com/)| Auto-Generates Reverse Shell.|
