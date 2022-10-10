@@ -58,5 +58,5 @@
 |-----------|-----------------------|
 |[AttackDefense Labs](https://attackdefense.com/)|Red and Blue team labs 
 |[CryptoHack](https://cryptohack.org/)| A fun, free platform for learning modern cryptography
+|[Exploit Education](https://exploit.education/)| exploit.education provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
 
-git branch new
