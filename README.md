@@ -52,5 +52,10 @@
 |[Random Tools and Information](https://refabr1k.gitbook.io/oscp/metasploit/basic-usage)|"Hello! refabr1k is my handle and I'm a pentester. I originally created this for my OSCP prep, but now I use this note book as reference when I'm performing pentesting. Feel free to use for your gain!" - refabr1k|
 |[Reverse Shell Generator](https://www.revshells.com/)| Auto-Generates Reverse Shell.|
 
+## Practice websites
+
+| Tool      |      Description      |
+|-----------|-----------------------|
+|[AttackDefense Labs](https://attackdefense.com/)|Red and Blue team labs 
 
 git branch new
