@@ -57,5 +57,6 @@
 | Tool      |      Description      |
 |-----------|-----------------------|
 |[AttackDefense Labs](https://attackdefense.com/)|Red and Blue team labs 
+|[CryptoHack](https://cryptohack.org/)| A fun, free platform for learning modern cryptography
 
 git branch new
